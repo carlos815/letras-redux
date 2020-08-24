@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/letras-redux/static/css/main.535ae164.chunk.css",
-    "main.js": "/letras-redux/static/js/main.659b9d3d.chunk.js",
-    "main.js.map": "/letras-redux/static/js/main.659b9d3d.chunk.js.map",
+    "main.js": "/letras-redux/static/js/main.cdf61d8b.chunk.js",
+    "main.js.map": "/letras-redux/static/js/main.cdf61d8b.chunk.js.map",
     "runtime-main.js": "/letras-redux/static/js/runtime-main.62b469d3.js",
     "runtime-main.js.map": "/letras-redux/static/js/runtime-main.62b469d3.js.map",
     "static/js/2.80267eef.chunk.js": "/letras-redux/static/js/2.80267eef.chunk.js",
     "static/js/2.80267eef.chunk.js.map": "/letras-redux/static/js/2.80267eef.chunk.js.map",
     "index.html": "/letras-redux/index.html",
-    "precache-manifest.0aaf1225048405fe378a543089ce59a4.js": "/letras-redux/precache-manifest.0aaf1225048405fe378a543089ce59a4.js",
+    "precache-manifest.e3d1cd9c26f2fad5182bfcc8f8d8ac92.js": "/letras-redux/precache-manifest.e3d1cd9c26f2fad5182bfcc8f8d8ac92.js",
     "service-worker.js": "/letras-redux/service-worker.js",
     "static/css/main.535ae164.chunk.css.map": "/letras-redux/static/css/main.535ae164.chunk.css.map",
     "static/js/2.80267eef.chunk.js.LICENSE.txt": "/letras-redux/static/js/2.80267eef.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.62b469d3.js",
     "static/js/2.80267eef.chunk.js",
     "static/css/main.535ae164.chunk.css",
-    "static/js/main.659b9d3d.chunk.js"
+    "static/js/main.cdf61d8b.chunk.js"
   ]
 }

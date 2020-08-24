@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8da6efafd92fecac1a5bb38c97e6cbb",
+    "revision": "bd136788234e4542ab09a137011bede4",
     "url": "/letras-redux/index.html"
   },
   {
-    "revision": "6c418bd90f1b9f0072e7",
+    "revision": "181929ebf8ca92557ba9",
     "url": "/letras-redux/static/css/main.535ae164.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/letras-redux/static/js/2.80267eef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c418bd90f1b9f0072e7",
-    "url": "/letras-redux/static/js/main.659b9d3d.chunk.js"
+    "revision": "181929ebf8ca92557ba9",
+    "url": "/letras-redux/static/js/main.cdf61d8b.chunk.js"
   },
   {
     "revision": "57422a30c263b33ec0ce",
