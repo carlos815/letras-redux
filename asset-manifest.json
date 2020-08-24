@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/letras-redux/static/css/main.535ae164.chunk.css",
+    "main.js": "/letras-redux/static/js/main.659b9d3d.chunk.js",
+    "main.js.map": "/letras-redux/static/js/main.659b9d3d.chunk.js.map",
+    "runtime-main.js": "/letras-redux/static/js/runtime-main.62b469d3.js",
+    "runtime-main.js.map": "/letras-redux/static/js/runtime-main.62b469d3.js.map",
+    "static/js/2.80267eef.chunk.js": "/letras-redux/static/js/2.80267eef.chunk.js",
+    "static/js/2.80267eef.chunk.js.map": "/letras-redux/static/js/2.80267eef.chunk.js.map",
+    "index.html": "/letras-redux/index.html",
+    "precache-manifest.d5a259ad1db6c8265471b64969d57924.js": "/letras-redux/precache-manifest.d5a259ad1db6c8265471b64969d57924.js",
+    "service-worker.js": "/letras-redux/service-worker.js",
+    "static/css/main.535ae164.chunk.css.map": "/letras-redux/static/css/main.535ae164.chunk.css.map",
+    "static/js/2.80267eef.chunk.js.LICENSE.txt": "/letras-redux/static/js/2.80267eef.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/letras-redux/static/media/logo.1d32ccd7.svg",
+    "static/media/SearchField.css": "/letras-redux/static/media/magnifier-glass.af3b13ac.svg",
+    "static/media/no-cover.svg": "/letras-redux/static/media/no-cover.e9c9f64d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62b469d3.js",
+    "static/js/2.80267eef.chunk.js",
+    "static/css/main.535ae164.chunk.css",
+    "static/js/main.659b9d3d.chunk.js"
+  ]
+}
