@@ -7,6 +7,7 @@ import { useDispatch, useSelector } from "react-redux";
 import useConstructor from "../../app/useConstructor";
 import { SearchField } from "../../app/SearchField";
 import { Link } from "react-router-dom";
+import { httpToHttps } from '../../app/httpToHttps'
 
 import noImage from "../../img/no-cover.svg";
 import logo from "../../img/logo.svg";
@@ -72,7 +73,7 @@ export const SingleBook = ({ data }) => {
     infoLink,
   } = data.volumeInfo;
 
-  const image = imageLinks !== undefined ? imageLinks.medium : noImage;
+  const image = imageLinks !== undefined ? httpToHttps(imageLinks.medium) : noImage;
   const dateObject = new Date(publishedDate);
   const date = publishedDate !== undefined ? dateObject.getFullYear() : "";
 

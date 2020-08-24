@@ -7,6 +7,7 @@ import { SearchField } from "../../app/SearchField";
 import noImage from "../../img/no-cover.svg";
 import logo from "../../img/logo.svg";
 
+import { httpToHttps } from '../../app/httpToHttps'
 import "./SearchResults.css";
 
 export const SearchResults = ({ match }) => {
@@ -65,10 +66,12 @@ export const SearchResults = ({ match }) => {
 export const BookCard = ({ data }) => {
   const { title, description, publishedDate, imageLinks } = data.volumeInfo;
 
-  const image = imageLinks !== undefined ? imageLinks.thumbnail : noImage;
+  const image = imageLinks !== undefined ? httpToHttps(imageLinks.thumbnail) : noImage;
   const shortenedDescription = description
     ? description.substring(0, 100) + "..."
     : "";
+
+  
   const dateObject = new Date(publishedDate);
   const date = publishedDate !== undefined ? dateObject.getFullYear() : "";
 
