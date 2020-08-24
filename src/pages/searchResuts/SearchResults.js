@@ -22,11 +22,11 @@ export const SearchResults = ({ match }) => {
     if (bookStatus === "idle") {
       dispatch(fetchBooks(search));
     }
-  }, [bookStatus, dispatch]);
+  }, [bookStatus, dispatch, search]);
 
   useEffect(() => {
     dispatch(fetchBooks(search));
-  }, [search]);
+  }, [search, dispatch]);
 
   let content;
 
