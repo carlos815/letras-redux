@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50e8e05dea0b8fb978de3f6c5426bd70",
+    "revision": "b8da6efafd92fecac1a5bb38c97e6cbb",
     "url": "/letras-redux/index.html"
   },
   {
