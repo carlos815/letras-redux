@@ -1,0 +1,40 @@
+form {
+    border-radius: 10rem;
+    background-color: var(--background-secondary-color);
+    display: flex;
+    align-items: center;
+    padding: 0.8rem 1rem;
+
+    align-content: space-between;
+    grid-column: 4 / span 6;
+    width: 100%;
+}
+
+input {
+    font: var(--card-font);
+    color: var(--main-font-color);
+    background-color: transparent;
+    border-style: none;
+    width: 100%;
+    
+}
+
+input:focus {
+    outline: none;
+}
+
+button {
+    background-image: url(../img/magnifier-glass.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    border: none;
+    width: 15px;
+    height: 15px;
+    
+}
+
+button:hover {
+    cursor: pointer;
+}
+
