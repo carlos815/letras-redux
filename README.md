@@ -1,3 +1,12 @@
+# Book Finder App with Redux
+
+Search any book using the google books API
+
+The Redux manages the requests with async thunks. It uses Slices and Entity Adapters for extra simplicity.
+
+[Live demo](https://pedantic-feynman-eb9538.netlify.app/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
